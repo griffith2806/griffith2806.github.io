@@ -67,7 +67,7 @@ a:active{
 img{
   justify-content: space-around;
   max-width: auto;
-  height: 300px;
+  max-height: 350px;
 }
 
 table{
