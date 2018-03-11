@@ -65,8 +65,7 @@ a:active{
 }
 
 img{
-  justify-content: space-around;
-  width: auto;
+  align: middle;
   max-height: 350px;
 }
 
